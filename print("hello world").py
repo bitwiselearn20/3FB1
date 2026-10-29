@@ -1,2 +1,2 @@
 print("anand")
-print("divison:", 10/2)
+print("divison:", 10/4)
